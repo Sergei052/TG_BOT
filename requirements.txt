@@ -1,0 +1,4 @@
+﻿python-telegram-bot>=21.6,<23
+python-dotenv==1.0.1
+pg8000==1.31.2
+gigachat>=0.1.30
